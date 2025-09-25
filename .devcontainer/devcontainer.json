@@ -1,6 +1,6 @@
 {
     "name": "ShorelineS",
-    "image": "containers.mathworks.com/matlab-runtime:r2025a",
+    "image": "containers.mathworks.com/matlab-runtime:r2025b",
     "customizations": {
         "vscode": {
             "settings": {
